@@ -1,6 +1,7 @@
 # EADDN
 This is the implementation of: Edge-assisted Dual Decoder Network for Change Detection. <br>
 ![image](https://github.com/CaoZhijuan-CD/EASAAN/blob/main/images/EASAAN.png)
+![image](https://github.com/CaoZhijuan-CD/EASAAN/blob/main/images/EASAAN01.png)
 # Install dependencies
 Install python(3.8) <br>
 Install pytorch(1.12) <br>
