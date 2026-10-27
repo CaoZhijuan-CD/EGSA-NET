@@ -1,4 +1,4 @@
-# EADDN
+# EGSA-NET
 This is the implementation of: EGSA-NET. <br>
 ![image](https://github.com/CaoZhijuan-CD/EASAAN/blob/main/images/EASAAN00.png)
 ![image](https://github.com/CaoZhijuan-CD/EASAAN/blob/main/images/EASAAN01.png)
