@@ -1,5 +1,5 @@
 # EADDN
-This is the implementation of: Edge-assisted Dual Decoder Network for Change Detection. <br>
+This is the implementation of: EGSA-NET. <br>
 ![image](https://github.com/CaoZhijuan-CD/EASAAN/blob/main/images/EASAAN00.png)
 ![image](https://github.com/CaoZhijuan-CD/EASAAN/blob/main/images/EASAAN01.png)
 # Install dependencies
