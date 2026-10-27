@@ -1,7 +1,7 @@
 # EGSA-NET
 This is the implementation of: EGSA-NET. <br>
-![image](https://github.com/CaoZhijuan-CD/EASAAN/blob/main/images/EASAAN00.png)
-![image](https://github.com/CaoZhijuan-CD/EASAAN/blob/main/images/EASAAN01.png)
+![image](https://github.com/CaoZhijuan-CD/EGSA-NET/blob/main/images/EASAAN00.png)
+![image](https://github.com/CaoZhijuan-CD/EGSA-NET/blob/main/images/EASAAN01.png)
 # Install dependencies
 Install python(3.8) <br>
 Install pytorch(1.12) <br>
@@ -16,7 +16,7 @@ Fully convolutional networks for multisource building extraction from an open ae
 **GZ** <br>
 SemiCDNet: A semisupervised convolutional neural network for change detection in high resolution remote-sensing Images. <br>
 # Result
-![image](https://github.com/CaoZhijuan-CD/EADDN/blob/main/images/result.png)
+![image](https://github.com/CaoZhijuan-CD/EGSA-NET/blob/main/images/result.png)
 # Other
 If you need weights, please email me.
 
